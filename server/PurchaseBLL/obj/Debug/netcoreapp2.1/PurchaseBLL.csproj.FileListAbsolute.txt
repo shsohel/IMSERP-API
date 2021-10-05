@@ -1,0 +1,81 @@
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.deps.json
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.dll
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.pdb
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.dll
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.dll
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.pdb
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.pdb
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csprojAssemblyReference.cache
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfoInputs.cache
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfo.cs
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CopyComplete
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.dll
+E:\Repositories\IMSERP\Server_Side\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.deps.json
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.dll
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.pdb
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csprojAssemblyReference.cache
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfoInputs.cache
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfo.cs
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CopyComplete
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\SimpleApi\SimpleApi\sssssss\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.deps.json
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.dll
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfoInputs.cache
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfo.cs
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CopyComplete
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CoreCompileInputs.cache
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.deps.json
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.dll
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.pdb
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csprojAssemblyReference.cache
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfoInputs.cache
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfo.cs
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CoreCompileInputs.cache
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CopyComplete
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\SH SOHEL\Desktop\Application\Application\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.pdb
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.deps.json
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.dll
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.pdb
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.dll
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.dll
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.pdb
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.pdb
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csprojAssemblyReference.cache
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfoInputs.cache
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfo.cs
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CoreCompileInputs.cache
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CopyComplete
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.dll
+D:\GitHub old\CoreAPIInventoryManagementSystemAngular\Inventroy\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\ASUS\Desktop\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.deps.json
+C:\Users\ASUS\Desktop\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\ASUS\Desktop\server\PurchaseBLL\bin\Debug\netcoreapp2.1\PurchaseBLL.pdb
+C:\Users\ASUS\Desktop\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.dll
+C:\Users\ASUS\Desktop\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.dll
+C:\Users\ASUS\Desktop\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonBLL.pdb
+C:\Users\ASUS\Desktop\server\PurchaseBLL\bin\Debug\netcoreapp2.1\CommonDAL.pdb
+C:\Users\ASUS\Desktop\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.csproj.CopyComplete
+C:\Users\ASUS\Desktop\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.dll
+C:\Users\ASUS\Desktop\server\PurchaseBLL\obj\Debug\netcoreapp2.1\PurchaseBLL.pdb
